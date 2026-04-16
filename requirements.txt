@@ -1,0 +1,14 @@
+# Scrapy + Playwright
+scrapy>=2.11.0
+scrapy-playwright>=0.0.34
+playwright>=1.40.0
+
+# ORM
+SQLAlchemy>=2.0.0
+psycopg2-binary>=2.9.9
+
+# Excel
+openpyxl>=3.1.2
+
+# Окружение
+python-dotenv>=1.0.0
